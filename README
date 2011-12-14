@@ -1,0 +1,16 @@
+Let's get started.
+
+
+To create empty repository
+Numbers>git init
+touch README
+
+git add README
+git commit -m 'first commit'
+
+
+git remote add origin git@github.com:puneetkumar_99@yahoo.com/Numbers.git
+
+git push origin master
+
+
