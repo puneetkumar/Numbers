@@ -36,7 +36,6 @@ public class NarcissticNumbers {
 		return false;
 	}
 
-
 	private static double cubeOfDigits(List digits) {
 		double cube = 0;
 		int sz = digits.size();
@@ -64,10 +63,5 @@ public class NarcissticNumbers {
 		digits.add(rem);
 		
 		return digits;
-	}
-	
-	
-	
-	
-	
+	}	
 }
